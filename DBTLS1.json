@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Trials",
-	"Version": 1734368458,
+	"Version": 1737137491,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1268,7 +1268,8 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				1
 			],
 			"SurvivorBalanceTiers": [
 				0
