@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By Trials",
-	"Version": 1737137491,
+	"Version": 1752614036,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -89,8 +89,8 @@
 				"167",
 				"168",
 				"171",
-				"175",
 				"179",
+				"175",
 				"180",
 				"184",
 				"185",
@@ -357,6 +357,9 @@
 				"246",
 				"27",
 				"28",
+				"273",
+				"286",
+				"288",
 				"30",
 				"31",
 				"32",
@@ -368,6 +371,7 @@
 				"39",
 				"40",
 				"41",
+				"279",
 				"43",
 				"44",
 				"45",
@@ -388,6 +392,7 @@
 				"57",
 				"58",
 				"59",
+				"289",
 				"61",
 				"63",
 				"64",
@@ -412,6 +417,7 @@
 				"86",
 				"87",
 				"88",
+				"281",
 				"89",
 				"90",
 				"94",
@@ -421,6 +427,7 @@
 				"99",
 				"92",
 				"102",
+				"275",
 				"105",
 				"107",
 				"108",
@@ -432,6 +439,8 @@
 				"253",
 				"115",
 				"116",
+				"290",
+				"287",
 				"120",
 				"121",
 				"122",
@@ -453,8 +462,8 @@
 				"165",
 				"167",
 				"168",
-				"175",
 				"179",
+				"175",
 				"180",
 				"184",
 				"185",
@@ -3064,6 +3073,102 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Ghoul",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Animatronic",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
